@@ -2,8 +2,8 @@
 {
     'name': 'Number to Amount',
     'version': '13.0',
-    'summary': 'In any language convert number to amount for any currency',
-    'description': "In any language convert number to amount for any currency",
+    'summary': 'In any language convert amount to text for any currency',
+    'description': "In any language convert amount to text for any currency",
     'depends': [
         'base',
     ],
